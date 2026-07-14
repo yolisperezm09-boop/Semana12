@@ -1,0 +1,6 @@
+1- Acceso a la plataforma 
+2- Completar la informacion para generar el formulario 
+Registrar peticion lo que genera un id el cual es enlazado para su difusion
+Al generarse la difusion otros miembrso de la comunidad pueden acceder para el apoyo de esta
+El sistem hace la validacion de firmas en tiempo real y que estas sean de calidad
+Despues de la validacion si es exitosa se genera el pdf y su respectivo cierre

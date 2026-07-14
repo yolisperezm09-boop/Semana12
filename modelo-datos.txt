@@ -1,0 +1,21 @@
+Causa 
+Alcaldia Mayor de Cartagena
+Id: 26845
+Titulo:Ayuda a los habitantes de vivienda que se incendio
+Descripcion:La vivienda ubicada en la calle 1 del sector Tamarindo 
+se incendio y sus habitantes perdieron todo, acudimos a una ayuda integral 
+ya que no tienen donde estar y que oerdieron todo.
+fecha:13-06-2027
+
+Apoyo
+Id:70557
+Causa_Id:26845
+Nombre:Alcaldia de Cartagena, Corvivienda y Secretaria de Participacion.
+Fecha:16-06-2026 
+
+Las entidades apoyar trabaajaran en articulacion la causa fue emitida a la 
+Alcaldia de Cartagena como garante del ciudadano y esta a su vez trabajara con Corvivienda 
+la que se encaragara de reconstruir la vivienda de las personas afectadas 
+y la secretaria de participacion hara articulacion con otras entidades
+para obtener las ayudas correspondientes despues de la construccion de la 
+vivienda .

@@ -1,0 +1,3 @@
+Evento: Registrar nuevo apoyo
+Mensaje: “Nuevo ciudadano ha firmado”
+Información que no debe enviarse: cédulas, teléfonos, direcciones, correo electrinicos,direccion ip. 
